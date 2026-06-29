@@ -1,0 +1,6 @@
+{
+  "name": "Sağlık ve Fitness Asistanı",
+  "description": "Kişiye özel VKE (BMI) ve kalori ihtiyacı hesaplayıcıları, günlük rastgele değişen sağlık tüyoları ve yapay zeka destekli profesyonel diyetisyen chatbot asistanı sunan modern, duyarlı sağlık platformu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
